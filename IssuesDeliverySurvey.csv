@@ -1,6 +1,6 @@
 ,Teacher Classroom Orders,Family Orders
-Wrong/Missing Items,0,0
-Damaged Items,1,0
-No Package Received,2,0
+Wrong/Missing Items,1,0
+Damaged Items,3,0
+No Package Received,4,0
 Delivered Late,0,0
-Other,2,0
+Other,3,0
