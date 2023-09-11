@@ -1,12 +1,13 @@
 ,Teacher Classroom Orders,Family Orders
-Wrong/Missing Items,7,7
-Damaged Items,7,4
-No Package Received,7,2
-Delivered Late,1,0
-Other,6,1
+Wrong/Missing Items,9,7
+Damaged Items,11,5
+No Package Received,9,4
+Delivered Late,3,2
+Other,5,2
 Tax,1,0
-Balance,2,0
-Kits Need,1,0
+Balance,3,0
+Kits Need,2,0
 High Price,1,0
 Due Date,1,0
 SFO,1,0
+Rewards & Promos,2,0
